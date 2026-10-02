@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Lucas Gomes Roseira  laboratório no deserto">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="55%" stop-color="#0e2430"/>
+      <stop offset="100%" stop-color="#1a331f"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3d2a18"/>
+      <stop offset="100%" stop-color="#1a120c"/>
+    </linearGradient>
+    <linearGradient id="crystal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="42%" r="28%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#sky)"/>
+  <circle cx="1048" cy="132" r="150" fill="url(#glow)"/>
+
+  <!-- stars -->
+  <g fill="#e2e8f0" opacity="0.85">
+    <circle cx="90" cy="36" r="1.2"/>
+    <circle cx="180" cy="70" r="1"/>
+    <circle cx="260" cy="28" r="1.4"/>
+    <circle cx="340" cy="88" r="1"/>
+    <circle cx="420" cy="44" r="1.1"/>
+    <circle cx="520" cy="22" r="1.3"/>
+    <circle cx="610" cy="76" r="1"/>
+    <circle cx="700" cy="38" r="1.2"/>
+    <circle cx="790" cy="58" r="1"/>
+    <circle cx="880" cy="24" r="1.4"/>
+    <circle cx="1180" cy="48" r="1.1"/>
+    <circle cx="1220" cy="92" r="1"/>
+  </g>
+
+  <!-- distant ridges -->
+  <path fill="#16261c" d="M0 198 L140 150 L250 186 L390 128 L560 178 L720 142 L880 188 L1040 136 L1280 176 L1280 320 L0 320 Z"/>
+  <path fill="url(#sand)" d="M0 228 C180 210 320 248 480 232 C640 216 780 250 940 228 C1080 212 1180 236 1280 222 L1280 320 L0 320 Z"/>
+
+  <!-- lab glass -->
+  <g transform="translate(1000,86)">
+    <rect x="62" y="0" width="10" height="28" rx="2" fill="#94a3b8"/>
+    <path d="M40 28 L94 28 L110 78 L24 78 Z" fill="none" stroke="#cbd5e1" stroke-width="3"/>
+    <path d="M34 86 L100 86 L92 168 L42 168 Z" fill="none" stroke="#cbd5e1" stroke-width="3"/>
+    <path d="M46 118 L88 118 L84 160 L50 160 Z" fill="url(#crystal)" opacity="0.92"/>
+    <circle cx="58" cy="132" r="4" fill="#e0f2fe" opacity="0.7"/>
+    <circle cx="74" cy="142" r="3" fill="#e0f2fe" opacity="0.55"/>
+    <rect x="48" y="168" width="38" height="10" rx="2" fill="#64748b"/>
+  </g>
+
+  <text x="72" y="118" fill="#f8fafc" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">LUCAS GOMES ROSEIRA</text>
+  <text x="74" y="154" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="6">DIGA O MEU NOME</text>
+  <text x="74" y="192" fill="#d6d3d1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Full-stack · Sorocaba/SP · o laboratório é a web</text>
+</svg>
