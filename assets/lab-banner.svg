@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Lucas Gomes Roseira  laboratório no deserto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Lucas Gomes Roseira â€” desert lab / laboratÃ³rio no deserto">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#071018"/>
@@ -54,7 +54,8 @@
     <rect x="48" y="168" width="38" height="10" rx="2" fill="#64748b"/>
   </g>
 
-  <text x="72" y="118" fill="#f8fafc" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">LUCAS GOMES ROSEIRA</text>
-  <text x="74" y="154" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="6">DIGA O MEU NOME</text>
-  <text x="74" y="192" fill="#d6d3d1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Full-stack · Sorocaba/SP · o laboratório é a web</text>
+  <text x="72" y="110" fill="#f8fafc" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">LUCAS GOMES ROSEIRA</text>
+  <text x="74" y="148" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="5">SAY MY NAME</text>
+  <text x="74" y="172" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3">DIGA O MEU NOME</text>
+  <text x="74" y="202" fill="#d6d3d1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Full-stack Â· Sorocaba/SP Â· the lab is the web Â· o lab Ã© a web</text>
 </svg>
