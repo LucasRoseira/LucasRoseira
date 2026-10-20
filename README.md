@@ -82,16 +82,18 @@ flowchart LR
 | Episode | What it is | Where to look |
 | :--- | :--- | :--- |
 | **S01 · Cinematic portfolio** | Site in **Vue 3 + TypeScript + Tailwind + GSAP**. Horizontal “episode” UX, desert/lab mood, **my** photos (not stills from the show), procedural audio, and a fan disclaimer in the footer. PT/EN. | [gomesroseira](https://github.com/LucasRoseira/gomesroseira) · [gomesroseira.com.br](https://gomesroseira.com.br/) |
-| **S02 · Projeto Ampliar** | Education in the Sorocaba area: admin + blog, an API in the **Nest / .NET** style, a **Next** front end, a **TipTap** rich-text editor, and student/teacher schedule links. | [projeto-ampliar-front](https://github.com/LucasRoseira/projeto-ampliar-front) |
-| **S03 · Laravel tools** | Utilities and systems in Laravel (with Docker when they need a VPS). Less hype, more tool somebody actually uses. | GitHub · `@LucasRoseira` |
+| **S02 · Projeto Ampliar** | Education in the Sorocaba area: admin + blog, an API in the **Nest / .NET** style, a **Next** front end, a **TipTap** rich-text editor, and student/teacher schedule links. | [ampliar.gomesroseira.com.br](https://ampliar.gomesroseira.com.br/) |
+| **S03 · Laravel 12 fleet** | At [Agência Kombi](https://agenciakombi.com.br/) I migrated the agency's fleet of **15 client sites** to **Laravel 12** (Oct 2–20, 2026): CMS, tests, **GitHub Actions** deploys, SEO and security hardening. It lives in private org repos, so it barely shows in the public feed. | [@agencia-kombi](https://github.com/agencia-kombi) · [agenciakombi.com.br](https://agenciakombi.com.br/) |
+| **S04 · Laravel tools** | Utilities and systems in Laravel (with Docker when they need a VPS). Less hype, more tool somebody actually uses. | GitHub · `@LucasRoseira` |
 
 Older repos on this account — URI, Fatec, bootcamps, study CRUDs — are the **lab notebook**. I leave them visible on purpose: everybody starts somewhere.
 
 **Português**
 
 - **S01 · Portfólio cinemático** — Vue 3, TypeScript, Tailwind e GSAP. UX por episódios, clima deserto/lab, fotos minhas, áudio procedural, disclaimer de fã. [gomesroseira](https://github.com/LucasRoseira/gomesroseira) · [site](https://gomesroseira.com.br/)
-- **S02 · Projeto Ampliar** — educação em Sorocaba: admin, blog, API no estilo Nest/.NET, front em Next, TipTap e agenda. [projeto-ampliar-front](https://github.com/LucasRoseira/projeto-ampliar-front)
-- **S03 · Ferramentas Laravel** — utilitários e sistemas em Laravel, com Docker quando vão para o VPS. GitHub · `@LucasRoseira`
+- **S02 · Projeto Ampliar** — educação em Sorocaba: admin, blog, API no estilo Nest/.NET, front em Next, TipTap e agenda. [ampliar.gomesroseira.com.br](https://ampliar.gomesroseira.com.br/)
+- **S03 · Frota Laravel 12** — na [Agência Kombi](https://agenciakombi.com.br/) migrei a frota de **15 sites de clientes** para **Laravel 12** (2 a 20/10/2026): CMS, testes, deploy com GitHub Actions, SEO e segurança. Fica em repositórios privados da organização, por isso quase não aparece no feed público. [@agencia-kombi](https://github.com/agencia-kombi)
+- **S04 · Ferramentas Laravel** — utilitários e sistemas em Laravel, com Docker quando vão para o VPS. GitHub · `@LucasRoseira`
 
 O caderno antigo (URI, Fatec, bootcamps, CRUD de estudo) fica visível de propósito.
 
@@ -114,17 +116,18 @@ No promise of a full season. What's cooking:
 
 - Polish the cinematic portfolio — timing, audio, episodes
 - Grow **Projeto Ampliar** (content, scheduling, admin)
+- Keep the **Laravel 12** fleet at Agência Kombi standardized and healthy
 - **Laravel** tools + **Docker / VPS** deploys
 - UX that feels like a product, not a Friday-night prototype
 
-**Português** — Sem temporada completa prometida: polir o portfólio (timing, áudio, episódios), evoluir o Ampliar (conteúdo, agenda, admin), ferramentas Laravel com Docker/VPS, e UX que parece produto.
+**Português** — Sem temporada completa prometida: polir o portfólio (timing, áudio, episódios), evoluir o Ampliar (conteúdo, agenda, admin), manter a frota Laravel 12 da Kombi padronizada, ferramentas Laravel com Docker/VPS, e UX que parece produto.
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=LucasRoseira&show_icons=true&count_private=false&include_all_commits=false&hide_rank=true&theme=github_dark&title_color=67e8f9&icon_color=22d3ee&text_color=e7e5e4&bg_color=0c0a09&border_color=1e3a3a)](https://github.com/LucasRoseira)
+[![Stats](https://github-readme-stats.vercel.app/api?username=LucasRoseira&show_icons=true&count_private=true&include_all_commits=false&hide_rank=true&theme=github_dark&title_color=67e8f9&icon_color=22d3ee&text_color=e7e5e4&bg_color=0c0a09&border_color=1e3a3a)](https://github.com/LucasRoseira)
 
-**Public** activity only. No peeking into the closed lab.  
-*Português — só atividade pública. Nada de espiar o lab fechado.*
+Most of the day-to-day lives in **private org repos**, so the public feed shows only a slice. No peeking into the closed lab.  
+*Português — o dia a dia fica em repositórios privados da organização, então o feed público mostra só uma fatia. Nada de espiar o lab fechado.*
 
 </div>
 
