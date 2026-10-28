@@ -33,10 +33,10 @@ Curso Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC Sorocaba (em
 | Projeto | Descrição |
 | :--- | :--- |
 | **Migração para Laravel 12 — Agência Kombi** | Liderei a migração de 15 sites de clientes para o Laravel 12: CMS, testes, CI/CD com GitHub Actions, melhorias de SEO e segurança. Repositórios privados da organização. |
-| **QR Controle** | Refatoração completa do sistema. Jun/2026 – atual. |
+| **QR Controle** | Refatoração completa do sistema. Jun/2026 – atual. [qrcontrole.com.br](https://qrcontrole.com.br/) |
 | **Projeto Ampliar** | Plataforma educacional para a região de Sorocaba: painel administrativo, blog, API, front-end em Next.js, editor de texto TipTap e agenda de alunos e professores. Set/2026 – atual. [ampliar.gomesroseira.com.br](https://ampliar.gomesroseira.com.br/) |
 | **Portfólio pessoal** | Vue 3, TypeScript, Tailwind CSS e GSAP; bilíngue (PT/EN). Set/2026 – atual. [Repositório](https://github.com/LucasRoseira/gomesroseira) · [gomesroseira.com.br](https://gomesroseira.com.br/) |
-| **Sites de clientes** | TODAH · MP Cardoso e Cardoso · Renato Amary Empreendimentos · Modelação Sorocabana · Advogada Glória Rizkallah |
+| **Sites de clientes** | [TODAH](https://todah.com.br/) · [MP Cardoso e Cardoso](https://www.mpcardosoecardoso.com.br/) · [Renato Amary Empreendimentos](https://www.renatoamary.com.br/) · [Modelação Sorocabana](https://www.modelacaosorocabana.com.br/) · [Advogada Glória Rizkallah](https://www.gloriarizkallahadv.com.br/) |
 
 A maior parte do meu trabalho do dia a dia fica em repositórios privados da organização, por isso a atividade pública mostra apenas uma parte dele. Os repositórios públicos mais antigos deste perfil são projetos de estudo e da faculdade.
 
