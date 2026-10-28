@@ -55,7 +55,11 @@ A maior parte do meu trabalho do dia a dia fica em repositórios privados da org
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasRoseira&show_icons=true&count_private=true&hide_rank=true&theme=github_dark&locale=pt-br)](https://github.com/LucasRoseira)
+[![Contribuições em 2026](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FLucasRoseira%3Fy%3D2026&query=%24.total.2026&label=Contribui%C3%A7%C3%B5es%20em%202026&color=58a6ff&labelColor=0d1117&style=flat-square&logo=github)](https://github.com/LucasRoseira)
+
+[![Sequência de contribuições](https://streak-stats.demolab.com?user=LucasRoseira&theme=github-dark&locale=pt_BR)](https://github.com/LucasRoseira)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasRoseira&show_icons=true&hide_rank=true&hide=commits,contribs&theme=github_dark&locale=pt-br)](https://github.com/LucasRoseira)
 
 ---
 
