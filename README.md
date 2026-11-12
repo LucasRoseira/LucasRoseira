@@ -32,6 +32,7 @@ Curso Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC Sorocaba (em
 
 | Projeto | Descrição |
 | :--- | :--- |
+| **Brutal Wizard Chess** | Jogo de xadrez 3D com peças GLB animadas, Modo Brutal, sons de batalha, modo tutorial e login opcional com Google. Nov/2026 – atual. [chess.gomesroseira.com.br](https://chess.gomesroseira.com.br/) |
 | **Migração para Laravel 12 — Agência Kombi** | Liderei a migração de 15 sites de clientes para o Laravel 12: CMS, testes, CI/CD com GitHub Actions, melhorias de SEO e segurança. Repositórios privados da organização. |
 | **QR Controle** | Refatoração completa do sistema. Jun/2026 – atual. [qrcontrole.com.br](https://qrcontrole.com.br/) |
 | **Projeto Ampliar** | Plataforma educacional para a região de Sorocaba: painel administrativo, blog, API, front-end em Next.js, editor de texto TipTap e agenda de alunos e professores. Set/2026 – atual. [ampliar.gomesroseira.com.br](https://ampliar.gomesroseira.com.br/) |
